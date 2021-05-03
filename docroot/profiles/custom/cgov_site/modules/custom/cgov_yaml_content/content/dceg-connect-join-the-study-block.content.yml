@@ -1,0 +1,9 @@
+- entity: "block_content"
+  type: "raw_html_block"
+  info: "Join the Study Button Block - dcegConnect"
+  langcode: en
+  status: 1
+  field_raw_html:
+    - format: "raw_html"
+      value: |
+        <a class="borderless-button-yellow" href="https://myconnect.cancer.gov/">Join the Study</a>
